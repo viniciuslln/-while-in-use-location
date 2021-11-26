@@ -1,6 +1,6 @@
 A Xamarin.Android port of Googls Codelabs "Receive location updates in Android with Kotlin" tutorial written in C#
 
-Original source: [https://github.com/googlecodelabs/while-in-use-location
+Original source: https://github.com/googlecodelabs/while-in-use-location
 
 While-in-use Location Codelab Repository
 ===============================
