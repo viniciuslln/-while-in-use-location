@@ -1,4 +1,4 @@
-A Xamarin.Android port of Googls Codelabs "Receive location updates in Android with Kotlin" tutorial written in C#
+A Xamarin.Android port of Google's Codelabs "Receive location updates in Android with Kotlin" tutorial written in C#
 
 Original source: https://github.com/googlecodelabs/while-in-use-location
 
